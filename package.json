@@ -1,0 +1,23 @@
+{
+  "name": "@isha93/number-formatter",
+  "version": "9.0.0",
+  "description": "This is my frist package module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-number-formatter"
+  ],
+  "author": "isa nur fajar <ishafajar11@gmail.com> (http://www.regopantes.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isha93/number-formatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isha93/number-formatter/issues"
+  },
+  "homepage": "https://github.com/isha93/number-formatter#readme"
+}
